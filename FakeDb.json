@@ -1,0 +1,29 @@
+{
+  "games": [
+    {
+      "id": "0c76",
+      "name": "Crysis 3",
+      "ratings": "6"
+    },
+    {
+      "name": "Valort",
+      "ratings": "7",
+      "id": "915e"
+    },
+    {
+      "id": "e7a3",
+      "name": "gta 4",
+      "ratings": "9"
+    },
+    {
+      "name": "Pubg",
+      "ratings": "8",
+      "id": "da8b"
+    },
+    {
+      "id": "68ea",
+      "name": "Cs 2",
+      "ratings": "8"
+    }
+  ]
+}
